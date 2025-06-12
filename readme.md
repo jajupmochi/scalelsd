@@ -1,3 +1,5 @@
+<div align="center">
+
 # ScaleLSD: Scalable Deep Line Segment Detection Streamlined
 
 <!-- <a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/ArXiv-250x.xxxxx-brightgreen"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Gradio%20Demo-Huggingface-orange"></a> -->
@@ -5,7 +7,6 @@
 <a href="https://ant-research.github.io/scalelsd"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="https://arxiv.org/abs/2506.09369"><img src="https://img.shields.io/badge/ArXiv-2506.09369-brightgreen"></a>&ensp;<a href="https://huggingface.co/cherubicxn/scalelsd"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>
 
 
-<div align="center">
 
 [Zeran Ke](https://calmke.github.io/)<sup>1,2</sup>, [Bin Tan](https://icetttb.github.io/)<sup>2</sup>, [Xianwei Zheng](https://jszy.whu.edu.cn/zhengxianwei/zh_CN/index.htm)<sup>1</sup>,  [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Tianfu Wu](https://research.ece.ncsu.edu/ivmcl/)<sup>3</sup>, [Nan Xue](https://xuenan.net/)<sup>2†</sup>
 
