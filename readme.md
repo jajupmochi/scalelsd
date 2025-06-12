@@ -2,7 +2,7 @@
 
 <!-- <a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/ArXiv-250x.xxxxx-brightgreen"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Gradio%20Demo-Huggingface-orange"></a> -->
 
-<a href="https://ant-research.github.io/scalelsd"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="https://code.alipay.com/kezeran.kzr/ScaleLSD"><img src="https://img.shields.io/badge/ArXiv-250x.xxxxx-brightgreen"></a>&ensp;<a href="https://huggingface.co/spaces/cherubicxn/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>
+<a href="https://ant-research.github.io/scalelsd"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="https://arxiv.org/abs/2506.09369"><img src="https://img.shields.io/badge/ArXiv-2506.09369-brightgreen"></a>&ensp;<a href="https://huggingface.co/spaces/cherubicxn/ScaleLSD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>
 
 
 <div align="center">
