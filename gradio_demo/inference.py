@@ -31,7 +31,7 @@ def stop_run():
 
 def process_image(
     input_image,
-    model_name='scalelsd-vitbase-v1-train-sa1b.pt',
+    model_name='scalelsd-vitbase-v2-train-sa1b.pt',
     save_name='temp_output',
     threshold=10,
     junction_threshold_hm=0.008,
