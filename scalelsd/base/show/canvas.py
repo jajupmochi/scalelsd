@@ -140,7 +140,6 @@ class Canvas:
             fig.savefig(fig_file)
         if cls.show:
             plt.show()
-            import pdb;pdb.set_trace()
         plt.close(fig)
 
 def white_screen(ax, alpha=0.9):
