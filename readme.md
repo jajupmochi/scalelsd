@@ -19,9 +19,9 @@
 ![teaser](assets/teaser.jpg)
 
 
-## ⚙️ Installtion
+## ⚙️ Installation
 
-All codes are succefully tested on:
+All codes are successfully tested on:
 
 - Ubuntu 22.04.5 LTS
 - CUDA 12.1
@@ -34,7 +34,7 @@ First clone this repo:
 git clone https://github.com/ant-research/scalelsd.git
 ```
 
-Then create the conda eviroment and install the dependencies:
+Then create the conda environment and install the dependencies:
 ```bash
 conda create -n scalelsd python=3.10
 pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
@@ -53,14 +53,14 @@ python -m gradio_demo.inference
 ### Line Matching
 Because our line matching app is built on GlueStick with our ScaleLSD, you need to install [GlueStick](https://github.com/cvg/GlueStick) and download the weights of the GlueStick model. Then run the Gradio demo:
 ```bash
-pythonb -m gradio_demo.line_mat_gluestick
+python -m gradio_demo.line_mat_gluestick
 ```
 
 ## 🚗 Inference
 
 Quickly start use our models for line segment detection by running the following command:
 ```bash
-python -m predictor.predict --img $[IMAGE_PATH_OR_FODER]
+python -m predictor.predict --img $[IMAGE_PATH_OR_FOLDER]
 ```
 
 You can also specify more params by:
@@ -68,7 +68,7 @@ You can also specify more params by:
 ```bash
 python -m predictor.predict \
     --ckpt $[MODEL_PATH] \
-    --img $[IMAGE_PATH_OR_FODER] \
+    --img $[IMAGE_PATH_OR_FOLDER] \
     --ext $[png/pdf/json] \
     --threshold 10 \
     --junction-hm 0.1 \
